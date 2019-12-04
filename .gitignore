@@ -2,3 +2,8 @@ img
 gif
 
 *.tgz
+
+# binaries
+binarization
+rgb2gray
+verify

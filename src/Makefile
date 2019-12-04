@@ -6,7 +6,8 @@ LDLIBS=\
 	-lopencv_imgproc\
 	-lopencv_highgui
 BIN=\
-	rgb2gray
+	rgb2gray\
+	verify
 
 .PHONY: all
 all: $(BIN)
